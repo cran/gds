@@ -131,7 +131,7 @@ gds<-function(ll,ul,freq){
   b1<-mu3^2/mu2^3 #
 
   # The skewness calculation
-  g1<-b1^(1/2) #  The skewness
+  g1<-sign(mu3)*b1^(1/2) #  The skewness
 
   # The kurtosis calculation
   b2<-mu4/mu2^2 #

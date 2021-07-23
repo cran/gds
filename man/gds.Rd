@@ -33,4 +33,3 @@ gds(c(10,20,30,40,50),c(20,30,40,50,60),c(7,13,23,20,8))
 
 4. Das, N. G. (2010) Statistical Methods- Combined Edition (Volumes I & II), Tata McGraw Hill Education Private Limited, New Delhi.
 }
-
